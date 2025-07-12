@@ -33,9 +33,15 @@
 # 📊 GitHub Stats:
 
 <div style="display: grid;">
-  <img alt="Teguh Kurnia's GitHub stats" src="https://github-readme-stats-eight-eta-29.vercel.app/api?username=teguhkurnia&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img alt="Teguh Kurnia's Contribution" src="https://nirzak-streak-stats.vercel.app/?user=teguhkurnia&theme=tokyonight&hide_border=true" />
-  <img alt="Teguh Kurnia's Top Languages" src="https://github-readme-stats-eight-eta-29.vercel.app/api/top-langs?username=teguhkurnia&theme=tokyonight&layout=compact&hide_border=true" />
+  <img 
+    style="height: 190px;"
+    alt="Teguh Kurnia's GitHub stats" src="https://github-readme-stats-eight-eta-29.vercel.app/api?username=teguhkurnia&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img 
+    style="height: 190px;"
+    alt="Teguh Kurnia's Contribution" src="https://nirzak-streak-stats.vercel.app/?user=teguhkurnia&theme=tokyonight&hide_border=true" />
+  <img 
+    style="height: 190px;"
+    alt="Teguh Kurnia's Top Languages" src="https://github-readme-stats-eight-eta-29.vercel.app/api/top-langs?username=teguhkurnia&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
