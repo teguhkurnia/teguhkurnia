@@ -19,7 +19,7 @@
       🌱 I’m currently learning <b>GoLang, Rust, and others stuff</b><br/>
     </li>
     <li>
-      📫 How to reach me: <b>[teguhkurniaixi@gmail.com](mailto:teguhkurniaixi@gmail.com)</b><br/>
+      📫 How to reach me: <b><a href="mailto:teguhkurniaixi@gmail.com">teguhkurniaixi@gmail.com</a></b><br/>
     </li>
     <li>
       😄 Pronouns: <b>He/Him</b><br/>
