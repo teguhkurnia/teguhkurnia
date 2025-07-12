@@ -10,10 +10,22 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I’m currently working on **Redis Like In Memmory Database written on GoLang**<br/>
-- 🌱 I’m currently learning **GoLang, Rust, and others stuff**<br/>
-- 📫 How to reach me: **[teguhkurniaixi@gmail.com](mailto:teguhkurniaixi@gmail.com)**<br/>
-- 😄 Pronouns: **He/Him**<br/>
+<div align="left">
+  <ul>
+    <li>
+      🔭 I’m currently working on <b>Redis Like In Memmory Database written on GoLang</b><br/>
+    </li>
+    <li>
+      🌱 I’m currently learning <b>GoLang, Rust, and others stuff</b><br/>
+    </li>
+    <li>
+      📫 How to reach me: <b>[teguhkurniaixi@gmail.com](mailto:teguhkurniaixi@gmail.com)</b><br/>
+    </li>
+    <li>
+      😄 Pronouns: <b>He/Him</b><br/>
+    </li>
+  </ul>
+</div>
 
 
 # 💻 Tech Stack:
